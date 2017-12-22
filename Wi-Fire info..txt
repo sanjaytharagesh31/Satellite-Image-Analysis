@@ -1,0 +1,26 @@
+WIFIRE is an integrated system for wildfire analysis, 
+with specific regard to changing urban dynamics and climate. The system integrates networked observations such as heterogeneous 
+satellite data and real-time remote sensor data,
+ with computational techniques in signal processing, visualization, modeling,
+ and data assimilation to provide a scalable method to monitor such phenomena as 
+weather patterns that can help predict a wildfire's rate of spread.
+
+The products of WIFIRE will be initially disseminated to project collaborators 
+(SDG&E, CAL FIRE, USFS) covering academic, private, 
+and government laboratories while generating value to emergency officials,
+ and consequently to the general public.
+
+WIFIRE may be used by government agencies in the future to save lives 
+and property during wildfire events, test the effectiveness of response and 
+evacuation scenarios before they occur 
+and assess the effectiveness of high-density sensor networks in improving fire and weather predictions. 
+WIFIRE's high-density network, therefore, will serve as a testbed for future applications worldwide.
+The team is inclusive across a spectrum of collaborators 
+and will create an open-source CI environment with intuitive workflows that lead to 
+reusable software components for a wide range of science and engineering disciplines
+ that can be extended to secondary education. 
+Results are disseminated via an interactive website at SDSC in which students 
+from high school to graduate level can participate in uploading their own data logging,
+ data processing or data-driven alerts.
+
+For further interest : https://youtu.be/N4LAROiW5c8
